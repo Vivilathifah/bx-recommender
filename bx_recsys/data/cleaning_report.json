@@ -1,0 +1,20 @@
+{
+  "users_raw": 278858,
+  "age_missing_raw": 110762,
+  "age_outlier_set_nan": 1248,
+  "books_raw": 271379,
+  "year_invalid_set_nan": 4649,
+  "ratings_raw": 1149780,
+  "ratings_matched_to_books": 1031178,
+  "ratings_explicit": 383853,
+  "cf_ratings_after_edition_merge": 381491,
+  "books_merged_into_other_edition": 42699,
+  "cf_ratings": 140716,
+  "cf_users": 7977,
+  "cf_books": 9411,
+  "cf_density_pct": 0.1874,
+  "min_ratings_per_user": 5,
+  "min_ratings_per_book": 5,
+  "users_clean": 278858,
+  "books_clean": 271064
+}
