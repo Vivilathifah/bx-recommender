@@ -6,7 +6,7 @@ bx_shiny/
 ├── app.R                # dashboard interaktif (Dashboard, Rekomendasi, Peta Buku, Evaluasi Model, Tentang Data)
 ├── data/
 │   ├── app_data.rds     # data bersih + model CF + metrik dalam 1 file (dibaca dashboard, 17 MB)
-│   └── csv/             # isi yang sama dalam 18 file CSV + kamus data (README.md)
+│   └── csv/             # isi yang sama dalam 18 file CSV + kamus data (README.md) https://drive.google.com/drive/folders/1Za0bR4mRFiC8p71X5iZv7w5WeXxZbVpe?usp=sharing
 ├── manifest.json        # daftar paket R untuk deploy ke Posit Connect Cloud
 └── prep/                # skrip pembuat app_data.rds (build_rds.R) dan CSV (export_csv.R)
 ```
